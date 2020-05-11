@@ -20,7 +20,7 @@
 <ol>
   <li> 데이터 수집 </li>
   <ul>
-     <li> Bitcoin Data를 파싱해주는 오픈소스 라이브러리인 BlockSci를 python 코드에 import하여 비트코인 특징 (거래 시간, 입 출력 주소의 개수, 거래 수수료, 주소의 입출력 가격(BTC, USD))을 수집 <li>
+     <li> Bitcoin Data를 파싱해주는 오픈소스 라이브러리인 BlockSci를 python 코드에 import하여 비트코인 특징 (거래 시간, 입 출력 주소의 개수, 거래 수수료, 주소의 입출력 가격(BTC, USD))을 수집 </li>
     <li> 수집한 데이터들은 학습데이터, 테스트 데이터 검증 데이터 세 가지로 분리 </li>
     </ul>
   <li> 데이터 분석</li>
