@@ -12,10 +12,10 @@
 - 기사를 보고 제목을 유추하는 방법을 착안하여 Youtube 영상 댓글을 요약하는 방식으로 제목 생성이 가능하다 생각
 
 ## 전체 시스템 구조
-![system_structure](./img/data_structure.PNG){: .center}
+![system_structure](./img/data_structure.PNG)
 
 ## 데이터 입력 / 출력 시나리오
-![data_input_output](./img/input_output.PNG){: .center}
+![data_input_output](./img/input_output.PNG)
 
 ## 수집한 데이터 셋
 카테고리 | 댓글 개수 | 영상 수
