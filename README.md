@@ -47,6 +47,8 @@
 </ol>
 
 ## 기타 사항
+- Youtube Comment Crawler code 는 
+  ![SOMJANG/Youtube_Comment_Crawler](https://github.com/SOMJANG/Youtube_Comment_Crawler.git) 로부터 Fork하여 사용하였습니다.
 - 현 모델 학습은 데이터 수집 및 전처리 미흡으로 완벽한 상태가 아님을 밝힙니다.
 - 제공하는 코드에서의 결과는 수집했던 Youtube의 제목이며, Overfitting이 의심됩니다.
 - 2020-06-27 ~ ...
